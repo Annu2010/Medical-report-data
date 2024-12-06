@@ -1,5 +1,6 @@
 # Medical-report-data
 * Iron Deficiency
+Iron and TIBC are measured in micrograms per deciliter (mcg/dL). Normal results for iron are: 70 to 175 mcg/dL for men. 50 to 170 mcg/dL for women.
 A medical report for iron deficiency anemia typically includes blood test results that show:
 -> Low hemoglobin
 Hemoglobin is an iron-rich protein in red blood cells that carries oxygen. A normal range for men is 13.2–16.6 grams per deciliter (g/dL) of blood, and for women it's 11.6–15 g/dL. 
